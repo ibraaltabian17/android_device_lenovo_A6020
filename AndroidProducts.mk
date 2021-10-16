@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_A6020.mk
+    $(LOCAL_DIR)/aosp_A6020.mk
 
 COMMON_LUNCH_CHOICES := \
-    nad_A6020-userdebug \
-    nad_A6020-eng \
-    nad_A6020-user
+    aosp_A6020-userdebug \
+    aosp_A6020-eng \
+    aosp_A6020-user
